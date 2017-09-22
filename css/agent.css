@@ -1,0 +1,63 @@
+.navbar-home {
+  border-top: 3px #0f673b solid;
+  border-bottom: 3px #0f673b solid;
+  color: #0f673b;
+  font-family: 'Poiret One', cursive;
+  font-size: 3em;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px #fff;
+}
+
+.navbar-home:hover {
+  transition: all 0.5s;
+  text-decoration: none;
+}
+
+.masthead {
+  height: 100vh;
+}
+
+#navbar-btn {
+  background-color: #0f673b !important;
+  outline: none;
+  opacity: 0.8;
+}
+
+#navbar-btn:hover {
+  transition: all 0.5s;
+  opacity: 1;
+}
+
+.service-logo-background {
+  color: #0f673b;
+}
+
+.form-control {
+  background-color: #0f673b;
+  color: #fff;
+  opacity: 0.9;
+}
+
+#contact {
+  background-repeat: none;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#about {
+  padding-bottom: 0px;
+  padding-top: 70px;
+}
+
+#carouselExampleIndicators {
+  border-top: 10px solid #000;
+  border-bottom: 10px solid #000;
+}
+
+.img-fluid {
+  width: 100%;
+}
+
+.car-img-text {
+  text-shadow: 1px 1px 1px #000;
+}
